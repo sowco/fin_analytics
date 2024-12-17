@@ -10,6 +10,7 @@ $ cat .gitignore
 *~
 
 # Игнорировать все файлы в каталогах
+*/
 inputData/
 outputData/
 system/
