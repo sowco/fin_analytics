@@ -5,6 +5,8 @@ $ cat .gitignore
 *.zip
 *.rar
 *.7z
+*.html
+* .html
 
 # Игнорировать временные файлы
 *~
