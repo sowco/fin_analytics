@@ -6,10 +6,18 @@ $ cat .gitignore
 *.rar
 *.7z
 *.html
-* .html
+*.html
+*.json
+best_params.json
 
 # Игнорировать временные файлы
 *~
+config.py
+info.py
+*gitignore
+Untitled.ipynb
+test.ipynb
+test.py
 
 # Игнорировать все файлы в каталогах
 */
