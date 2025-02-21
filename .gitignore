@@ -1,7 +1,7 @@
 $ cat .gitignore
 # Исключить все файлы с расширением .xlsx и т.д.
 *.xlsx
-*.csv
+#*.csv
 *.zip
 *.rar
 *.7z
